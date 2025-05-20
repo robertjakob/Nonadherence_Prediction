@@ -58,12 +58,12 @@ This repository contains analysis code for studying non-adherence and churn pred
 
 ### Churn Prediction
 - **Manoa**:
-  - Analyzes user churn patterns on a daily basis from day 8 to day 187
+  - Predicts churn (users’ last login within program duration) at the end of each day with a 7-Day prediction window
   - Uses login and active usage patterns as features
   - Only features before the prediction window are used
 
 - **Vivira**:
-  - Analyzes user churn patterns on a daily basis from day 8 to day 90
+  - Predicts churn (users’ last login within program duration) at the end of each day with a 7-Day prediction window
   - Uses exercise and active usage patterns as features
   - Only features before the prediction window are used
 
