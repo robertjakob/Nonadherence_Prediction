@@ -1,4 +1,4 @@
-# Vivira & Manoa Analysis Repository
+# Vivira & Manoa Nonadherence Prediction Repository
 
 This repository contains analysis code for studying non-adherence and churn prediction models in two mobile health interventions (Manoa & Vivira).
 
