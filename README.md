@@ -10,9 +10,9 @@ This repository contains analysis code for studying non-adherence and churn pred
 │   ├── manoa_nonadherence.py
 │   └── manoa_churn.py
 ├── Vivira Code/
-│   ├── vivira_nonadherence.py
-│   └── vivira_churn.py
-└── Vivira&Manoa_paper_v5.docx
+    ├── vivira_nonadherence.py
+    └── vivira_churn.py
+
 ```
 
 ## Data Description
